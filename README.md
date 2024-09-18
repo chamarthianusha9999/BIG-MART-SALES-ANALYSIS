@@ -1,5 +1,6 @@
 # BIG-MART-SALES-ANALYSIS
 OBJECTIVE: The objective of the Big Mart Sales Analysis is to gain comprehensive insights into the company's sales performance across multiple dimensions. The ultimate goal of the Big Mart Sales Analysis is to leverage data to enhance understanding of sales dynamics, optimize business operations, and inform strategic decisions. By analyzing sales data comprehensively, Big Mart can identify opportunities for growth, improve customer satisfaction, and increase profitability.
+
 Key Insights:
 
 Overall Total sales of Big Mart are 2.29M and Total Profit is 286.40K. The sales increased from 2014 to 2017 but saw a decline in 2018.
